@@ -1,5 +1,6 @@
 # Numerical-Analysis 
-Implementation of numerical analysis and solve related computer problems in python
+
+Implement methods of numerical analysis and solve some related examples
 
 # Prerequisite
 
@@ -15,8 +16,12 @@ Implementation of numerical analysis and solve related computer problems in pyth
 - [plotly](https://plot.ly/)
 - [mpmath](http://mpmath.org/)
 
-You can use pip to install all the packages above
+You can use pip to install above packages 
 
 ```
-$ pip install numpy scipy matplotlib sympy plotly mpmath
+$ pip install --user numpy scipy matplotlib sympy plotly mpmath
 ```
+
+# Reference
+
+- Timothy Sauer, Numerical Analysis 2ed
