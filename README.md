@@ -1,13 +1,13 @@
 # Numerical-Analysis 
 
-Implement methods of numerical analysis and solve some related examples
+Implement methods of numerical analysis and solve problems
 
-# Prerequisite
+## Prerequisite
 
 - [python](https://www.python.org/)
 - [jupyter](http://jupyter.org/)
 
-# Required Libraries
+## Required Libraries
 
 - [numpy](http://www.numpy.org/)
 - [scipy](https://www.scipy.org/)
@@ -21,6 +21,10 @@ You can use pip to install above packages
 ```
 $ pip install --user numpy scipy matplotlib sympy plotly mpmath
 ```
+
+## Matlab code
+
+You can run this code with Matlab or GNU Octave
 
 # Reference
 
