@@ -48,8 +48,6 @@ function w = poisson(xl, xr, yb, yt, M, N)
     v = A\b;
     w = reshape(v(1:mn),m,n);
 
-    w
-
-    % mesh(x,y,w')
+    mesh(x,y,w');
 
 end
