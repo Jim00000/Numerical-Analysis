@@ -1,6 +1,6 @@
 # Numerical-Analysis 
 
-Implement methods of numerical analysis and solve problems
+Implement methods of numerical analysis for practice and personal usage only
 
 ## Prerequisite
 
@@ -19,7 +19,7 @@ Implement methods of numerical analysis and solve problems
 You can use pip to install above packages 
 
 ```
-$ pip install --user numpy scipy matplotlib sympy plotly mpmath
+$ pip install --user -r requirements.txt
 ```
 
 ## Matlab code
