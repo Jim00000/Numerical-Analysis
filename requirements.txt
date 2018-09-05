@@ -4,3 +4,4 @@ matplotlib
 sympy 
 plotly 
 mpmath
+opencv-python
