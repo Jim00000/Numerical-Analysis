@@ -26,6 +26,10 @@ $ pip install --user -r requirements.txt
 
 You can run this code with Matlab or GNU Octave
 
+## On Windows platform
+
+Run `run.bat` file to open jupyter notebook
+
 # Reference
 
 - Timothy Sauer, Numerical Analysis 2ed
