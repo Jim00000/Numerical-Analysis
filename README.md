@@ -2,13 +2,10 @@
 
 Implement methods of numerical analysis for practice and personal usage only
 
-## Prerequisite
+## Required Libraries and Tools
 
-- [python](https://www.python.org/)
+- [python(v3.8.6+)](https://www.python.org/)
 - [jupyter](http://jupyter.org/)
-
-## Required Libraries
-
 - [numpy](http://www.numpy.org/)
 - [scipy](https://www.scipy.org/)
 - [matplotlib](https://matplotlib.org/)
@@ -22,14 +19,10 @@ You can use pip to install above packages
 $ pip install --user -r requirements.txt
 ```
 
-## Matlab code
-
-You can run this code with Matlab or GNU Octave
-
 ## On Windows platform
 
-Run `run.bat` file to open jupyter notebook
+Run `run.bat` file to open jupyter notebook on Windows platform
 
 # Reference
 
-- Timothy Sauer, Numerical Analysis 2ed
+- Timothy Sauer, Numerical Analysis 3rd edition
