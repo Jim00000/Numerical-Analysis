@@ -2,8 +2,6 @@
 
 This repository contains my study note of numerical analysis. The jupyter notebook includes important definitions and theorems of numerical analysis, most examples in the textbook which are rewritten and implemented in Python and code for computer problems.
 
-I'm just a numerical analysis hobbyist without solid mathematics background. Do not anticipate the contents are 100% correct.
-
 ## Requirements
 
 - [python(v3.8.6+)](https://www.python.org/)
