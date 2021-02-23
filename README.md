@@ -13,11 +13,7 @@ This repository contains my study note of numerical analysis. The jupyter notebo
 - [plotly](https://plot.ly/)
 - [mpmath](http://mpmath.org/)
 
-You can use pip to install above packages 
-
-```
-$ python -m pip install --user -r requirements.txt
-```
+It is recommended to use [JupyterLab](https://jupyter.org/install.html) for Jupyter notebooks and code.
 
 ## Reference
 
